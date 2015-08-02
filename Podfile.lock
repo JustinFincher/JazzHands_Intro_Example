@@ -1,0 +1,13 @@
+PODS:
+  - JazzHands (2.0.2)
+  - Shimmer (1.0.2)
+
+DEPENDENCIES:
+  - JazzHands
+  - Shimmer
+
+SPEC CHECKSUMS:
+  JazzHands: 088a3949e539480b07ba6ae4877da935efcc061b
+  Shimmer: c5374be1c2b0c9e292fb05b339a513cf291cac86
+
+COCOAPODS: 0.37.1
